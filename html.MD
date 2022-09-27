@@ -1,0 +1,3 @@
+Notes
+VERSION ACTUAL HTML5.2 since 2017
+HTML Hyper Text Markup Language

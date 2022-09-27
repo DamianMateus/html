@@ -2,16 +2,16 @@
 <!-- <div> define a section in the document -->
 <div>
 
-<!-- <span> define a section in the document-->
+<!-- <span> define a section in the document whitout create a new  line in list o elements-->
 <span>
 
-<!-- <header> -->
+<!-- <header> Defines the top section in the document-->
 <header>
 
-<!-- <nav> -->
+<!-- <nav> define navigation links and menus-->
 <nav>
 
-<!-- <main> -->
+<!-- <main> specified main content of the document-->
 <main>
 
 <!-- <section> -->

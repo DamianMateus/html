@@ -17,3 +17,18 @@ https://www.udemy.com/course/the-complete-html-5-course-from-scratch
 <link>
 <meta>
 <style>
+
+# Styles and semantics
+<div>
+<span>
+<header>
+<nav>
+<main>
+<section>
+<article>
+<aside>
+<details>
+<dialog>
+<summary>
+<data>
+<footer>

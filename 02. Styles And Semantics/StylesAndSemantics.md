@@ -14,26 +14,26 @@
 <!-- <main> specified main content of the document-->
 <main>
 
-<!-- <section> -->
+<!-- <section> define a section in the document-->
 <section>
 
-<!-- <article> -->
+<!-- <article> define an article in the document-->
 <article>
 
-<!-- <aside> -->
+<!-- <aside> define content aside from the page content-->
 <aside>
 
-<!-- <details> -->
+<!-- <details> define additional details that the user can view or hide-->
 <details>
 
-<!-- <dialog> -->
+<!-- <dialog> define a dialog box or window-->
 <dialog>
 
-<!-- <summary> -->
+<!-- <summary> defines a visible heading for details element-->
 <summary>
 
-<!-- <data> -->
+<!-- <data> adds a machine readable translation of a given content-->
 <data>
 
-<!-- <footer> -->
+<!-- <footer> defines a footer for a document or section-->
 <footer>
